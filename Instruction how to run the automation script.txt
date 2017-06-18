@@ -1,0 +1,11 @@
+Instruction how to run the test
+
+1. Download UFT tool version 12.54 or higer version at url: https://saas.hpe.com/en-us/software/uft
+2. Follow the uft guide and install uft, make sure you are select to install web addin with uft during the installation 
+3. Open uft and accept the demo license, select the web addin in the addins manager 
+4. Open the test Automation_Lazada
+5. Click on Run button in the toolbar to run the test, (you can change the data in the data table as you want). 
+The test script will run 12 test cases of "Create account" and 3 test cases of "Search" on IE browser,make sure this is IE browser in your machine
+6. Observer the report results and analyze the results
+
+

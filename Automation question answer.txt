@@ -1,0 +1,27 @@
+B.Answering the following questions:		
+1.What is the benefit of automation test and why? Please provide some of your examples to prove that	
+2.What makes a good automation test tool, and what is a bad one? Why?
+
+
+
+Answer:
+1. What is the benefit of automation test and why?
+ a. It will prenvent the Human mistake
+ b. It is usefull in case we have to performace regression test with a lot of test case repeat many times
+ c. It perfoms consitance though out the test process
+ d. Save time and save cost 
+ e. It can be run in the night that Human is not able to do.
+ f. Sometimes it can do the work task that Human cannot do or have to take alot of times to do like evaluation the perfomance of the system
+
+
+2.What makes a good automation test tool, and what is a bad one? Why?
+
+1.Good automation test tool:
+ a. if it supports all type of AUT like web app, mobile app and standalone app in one tool
+ b. if it supports as many technologies as it good, example java, C,C#, web, SAP, Siebel,Visual basic...
+ c. if it is quick support from the community 
+ d. write one and run on anywhere
+2.Bad one:
+ Aka, I think that there is no bad one, we just evaluate it that is the automation testing tool supports us as much as it can or not? 
+if it was not supported our purpose then we should choose the best tool that match with out purpose as much as posoble 
+so there is no bad autoamtion testing tool.
